@@ -1,1 +1,2 @@
-[README.md](https://github.com/user-attachments/files/20637144/README.md)
+#Get Your Mental Str8
+A website dedicated to supporting mental health and wellness.
